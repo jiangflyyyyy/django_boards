@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/moroccan-flower.png);
+}
+
+.log {
+    font-family: 'Peralta', cursive;
+}
+
+.log a {
+    color: rgba(0,0,0,.9);
+}
+
+.log a:hover,
+.log a:active  {
+    text-decoration: none;
+}
